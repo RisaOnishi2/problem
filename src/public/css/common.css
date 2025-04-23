@@ -1,0 +1,32 @@
+.header {
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+.header__inner {
+    margin: auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #97897d;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.login__link {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.register__link {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.logout__button {
+    margin-top: 10px;
+    text-align: right;
+}
