@@ -18,3 +18,7 @@ MySQL 8.0.26
 ## URL
 開発環境：http://localhost/ ,
 pypMyAdmin：http://localhost:8080/
+
+##補足
+申し訳ありません。
+コミットした場所がmainではなくmasterブランチになっています。
